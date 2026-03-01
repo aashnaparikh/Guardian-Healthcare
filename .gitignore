@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+frontend/node_modules/
+frontend/build/
+*.pth
+.DS_Store
+sample_xray_processed.jpg
